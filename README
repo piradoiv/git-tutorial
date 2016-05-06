@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 https://github.com/danidepo/git-tutorial.git
+=======
+¡Hola!,
+
+Este es el repositorio del tutorial sobre Git
+que puedes leer en http://www.piradoiv.com/
+
+¡Saludos!
+>>>>>>> badcfe1d392f9bb5e69fec17230183b99448ceaf
